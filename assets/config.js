@@ -1,10 +1,6 @@
 const config = {
     
     USERNAME: "Siri#1111",
-    /**
-     * This can either be a file link (relative or external)
-     * or a Gravatar email or hash.
-     */
     PICTURE: "https://cdn.sayrix.fr/J1t/siri.gif",
 
     DESCRIPTION: "Hi 👋, I'm Sayrix ! I am French and i live in Bordeaux 🥖 I'm Brand Designer & NodeJS Developer",
@@ -30,5 +26,4 @@ const config = {
         { class_name: "fab fa-discord", link: "https://discord.gg/VasYV6MEJy" },
         { class_name: "fab fa-twitch", link: "https://twitch.tv/s4yrix" },
     ],
-
 }

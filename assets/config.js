@@ -15,8 +15,7 @@ const config = {
     PROJECTS: [
         { id: "ChilledBot", image: "https://cdn.sayrix.fr/J1t/ChilledBot2%20Rounded.png", link: "https://chilledbot.xyz", name: "ChilledBot, a discord bot playing lofi hip hop music 24/7" },
         { id: "U'World", image: "https://cdn.sayrix.fr/J1t/uworld.png", link: "https://uworldmc.fr", name: "U'World, a Minecraft Survival and OneBlock server in 1.17.1" },
-        { id: "Portfolio", image: "https://cdn.sayrix.fr/J1t/S.png", link: "https://sayrix.fr/portfolio", name: "My portfolio" },
-        { id: "ExoHost (CHILLEDBOT for -10%)", image: "http://cdn.sayrix.fr/i/205M.png", link: "https://my.exohost.fr/aff.php?aff=3", name: "ExoHost (CHILLEDBOT for -10%)" },
+        { id: "Portfolio", image: "https://cdn.sayrix.fr/J1t/S.png", link: "https://sayrix.fr/portfolio", name: "My portfolio" }
     ],
 
     SOCIALS: [
